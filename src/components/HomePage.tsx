@@ -91,7 +91,7 @@ const HomePage: React.FC<HomePageProps> = ({ setCurrentPage }) => {
           <div className="text-center">
             <div className="inline-flex items-center px-4 py-2 bg-blue-100 rounded-full text-blue-700 text-sm font-medium mb-6">
               <Zap className="h-4 w-4 mr-2" />
-              Smart India Hackathon 2025 Winner
+              Gen-AI Powered HealthCare Assistant
             </div>
             
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
